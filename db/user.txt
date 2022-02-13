@@ -1,0 +1,8 @@
+
+{
+  "fullname": "Lennox Charles",
+  "username": "lenny",
+  "email": "lenny@gmail.com",
+  "password": "whatever",
+  "date": "12/02/2022"
+},
